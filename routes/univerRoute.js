@@ -11,7 +11,7 @@ const router = Router()
 
 router.post('/', createUniversidad)
 router.get('/', readUniversidad)
-router.put('/', updateUniversidad)
-router.delete('/', deleteUniversidad)
+router.put('/:id', updateUniversidad)
+router.delete('/:id', deleteUniversidad)
 
 module.exports = router

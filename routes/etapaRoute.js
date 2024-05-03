@@ -10,7 +10,7 @@ const router = Router()
 
 router.post('/', createEtapa)
 router.get('/', readEtapa)
-router.put('/:nombre', updateEtapa)
-router.delete('/:nombre', deleteEtapa)
+router.put('/:id', updateEtapa)
+router.delete('/:id', deleteEtapa)
 
 module.exports = router

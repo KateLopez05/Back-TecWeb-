@@ -7,7 +7,7 @@ const createUniversidad = async (req= request, res= response) => {
         const universidad = new Universidades(body)
 
         await universidad.save()
-        return res.status(201).json(tipo)
+        return res.status(201).json(universidad)
     } catch (error) {
         return res.status(500).json({
             mensaje: error

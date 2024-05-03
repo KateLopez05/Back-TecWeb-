@@ -10,7 +10,7 @@ const router = Router()
 
 router.post('/', createCliente)
 router.get('/', readCliente)
-router.put('/:nombre', updateCliente)
-router.delete('/:nombre', deleteCliente)
+router.put('/:id', updateCliente)
+router.delete('/:id', deleteCliente)
 
 module.exports = router
