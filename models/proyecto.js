@@ -1,46 +1,48 @@
 const {Schema, model} = require('mongoose')
 
 const proyectoSchema = Schema({
-    numero:{
+    numero : {
         type: Number, 
         required: [true, 'Numero es requerido'],
         unique:[true, 'Numero ya existe']
     },
-    titulo: {
+    titulo : {
         type: String,
         required: [true, 'El titulo es requerido']
     },
-    fechaInicio: {
+    fechaInicio : {
         type: Date
     },
-    fechaEntrega: {
+    fechaEntrega : {
         type: Date
     },
-    valor: {
+    valor : {
         type: Number
     },
-    fechaCreacion: {
-        type: Date
+    fechaCreacion : {
+        type: Date,
+        default: new Date()
     },
-    fechaActualizacion: {
-        type: Date
+    fechaActualizacion : {
+        type: Date,
+        default: new Date()
     },
-    cliente: {
+    cliente : {
         type: Schema.Types.ObjectId,
         ref: 'Cliente',
         required: true
     },
-    tipo: {
+    tipo : {
         type: Schema.Types.ObjectId,
         ref: 'Tipo de Proyecto',
         required: true
     },
-    universidad: {
+    universidad : {
         type: Schema.Types.ObjectId,
         ref: 'Universidad',
         required: true
     },
-    etapa: {
+    etapa : {
         type: Schema.Types.ObjectId,
         ref: 'Etapa de proyecto',
         required: true
