@@ -28,12 +28,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/tipoProyecto",
+							"raw": "http://localhost:4001/api/v1/tipoProyecto",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -58,12 +58,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/tipoProyecto",
+							"raw": "http://localhost:4001/api/v1/tipoProyecto",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -88,12 +88,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/tipoProyecto/6632c0367e56f795ba095af1",
+							"raw": "http://localhost:4001/api/v1/tipoProyecto/6632c0367e56f795ba095af1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -110,12 +110,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:4000/api/v1/tipoProyecto/6632c0307e56f795ba095aef",
+							"raw": "http://localhost:4001/api/v1/tipoProyecto/6632c0307e56f795ba095aef",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -146,12 +146,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/cliente",
+							"raw": "http://localhost:4001/api/v1/cliente",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -167,12 +167,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:4000/api/v1/cliente",
+							"raw": "http://localhost:4001/api/v1/cliente",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -197,12 +197,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/cliente/6632e054e48be76ebd8b17cc",
+							"raw": "http://localhost:4001/api/v1/cliente/6632e054e48be76ebd8b17cc",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -219,12 +219,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:4000/api/v1/cliente/6632da0fe48be76ebd8b17c7",
+							"raw": "http://localhost:4001/api/v1/cliente/6632da0fe48be76ebd8b17c7",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -255,12 +255,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/universidad",
+							"raw": "http://localhost:4001/api/v1/universidad",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -276,12 +276,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:4000/api/v1/universidad",
+							"raw": "http://localhost:4001/api/v1/universidad",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -306,12 +306,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/universidad/663410df381efa1e3e600dd9",
+							"raw": "http://localhost:4001/api/v1/universidad/663410df381efa1e3e600dd9",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -328,12 +328,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:4000/api/v1/universidad/663410e9381efa1e3e600ddb",
+							"raw": "http://localhost:4001/api/v1/universidad/663410e9381efa1e3e600ddb",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -379,12 +379,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/etapa/663412f1d4ff940524bba75b",
+							"raw": "http://localhost:4001/api/v1/etapa/663412f1d4ff940524bba75b",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -416,12 +416,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:4000/api/v1/etapa",
+							"raw": "http://localhost:4001/api/v1/etapa",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -462,12 +462,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/etapa/66341333d4ff940524bba760",
+							"raw": "http://localhost:4001/api/v1/etapa/66341333d4ff940524bba760",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -509,12 +509,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/etapa",
+							"raw": "http://localhost:4001/api/v1/etapa",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4001",
 							"path": [
 								"api",
 								"v1",
@@ -531,62 +531,16 @@
 			"name": "Proyecto",
 			"item": [
 				{
-					"name": "Delete",
+					"name": "Post",
 					"event": [
 						{
 							"listen": "test",
 							"script": {
-								"type": "text/javascript",
 								"exec": [
-									"pm.test(\"Successful DELETE request\", function () {",
-									"    pm.expect(pm.response.code).to.be.oneOf([200, 202, 204]);",
+									"pm.test(\"Successful POST request\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 201]);",
 									"});",
 									""
-								]
-							}
-						}
-					],
-					"request": {
-						"method": "DELETE",
-						"header": [],
-						"body": {
-							"mode": "raw",
-							"raw": "",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": {
-							"raw": "{{base_url}}/info?id=1",
-							"host": [
-								"{{base_url}}"
-							],
-							"path": [
-								"info"
-							],
-							"query": [
-								{
-									"key": "id",
-									"value": "1"
-								}
-							]
-						},
-						"description": "This is a DELETE request, and it is used to delete data that was previously created via a POST request. You typically identify the entity being updated by including an identifier in the URL (eg. `id=1`).\n\nA successful DELETE request typically returns a `200 OK`, `202 Accepted`, or `204 No Content` response code."
-					},
-					"response": []
-				},
-				{
-					"name": "Get",
-					"event": [
-						{
-							"listen": "test",
-							"script": {
-								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
-									"});"
 								],
 								"type": "text/javascript",
 								"packages": {}
@@ -594,15 +548,24 @@
 						}
 					],
 					"request": {
-						"method": "GET",
+						"method": "POST",
 						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"numero\": \"3\",\n    \"titulo\": \"actididad S30\",\n    \"fechaInicio\": \"05/03/2024\",\n    \"fechaEntrega\": \"07/03/2024\",\n    \"valor\": \"30\",\n    \"cliente\": \"6632e054e48be76ebd8b17cc\",\n    \"tipo\": \"664b8299fa60e52d0ee858a8\",\n    \"universidad\": \"66341089381efa1e3e600dd5\",\n    \"etapa\": \"663412f1d4ff940524bba75b\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/proyecto/",
+							"raw": "http://localhost:4002/api/v1/proyecto/",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4002",
 							"path": [
 								"api",
 								"v1",
@@ -610,7 +573,7 @@
 								""
 							]
 						},
-						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
+						"description": "This is a POST request, submitting data to an API via the request body. This request submits JSON data, and the data is reflected in the response.\n\nA successful POST request typically returns a `200 OK` or `201 Created` response code."
 					},
 					"response": []
 				},
@@ -644,12 +607,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/proyecto/66341f2f9b0a0ba8b13631dd",
+							"raw": "http://localhost:4002/api/v1/proyecto/66341f2f9b0a0ba8b13631dd",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4002",
 							"path": [
 								"api",
 								"v1",
@@ -662,14 +625,51 @@
 					"response": []
 				},
 				{
-					"name": "Post",
+					"name": "Get",
 					"event": [
 						{
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Successful POST request\", function () {",
-									"    pm.expect(pm.response.code).to.be.oneOf([200, 201]);",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});"
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4002/api/v1/proyecto/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4002",
+							"path": [
+								"api",
+								"v1",
+								"proyecto",
+								""
+							]
+						},
+						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Successful DELETE request\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 202, 204]);",
 									"});",
 									""
 								],
@@ -679,11 +679,11 @@
 						}
 					],
 					"request": {
-						"method": "POST",
+						"method": "DELETE",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"numero\": \"2\",\n    \"titulo\": \"actididad S30\",\n    \"fechaInicio\": \"05/03/2024\",\n    \"fechaEntrega\": \"07/03/2024\",\n    \"valor\": \"20\",\n    \"cliente\": \"6632e054e48be76ebd8b17cc\",\n    \"tipo\": \"6632c0367e56f795ba095af1\",\n    \"universidad\": \"66341089381efa1e3e600dd5\",\n    \"etapa\": \"66341300d4ff940524bba75d\"\n}",
+							"raw": "",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -691,20 +691,20 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:4000/api/v1/proyecto/",
+							"raw": "http://localhost:4002/api/v1/proyecto/663420d59b0a0ba8b13631df",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "4000",
+							"port": "4002",
 							"path": [
 								"api",
 								"v1",
 								"proyecto",
-								""
+								"663420d59b0a0ba8b13631df"
 							]
 						},
-						"description": "This is a POST request, submitting data to an API via the request body. This request submits JSON data, and the data is reflected in the response.\n\nA successful POST request typically returns a `200 OK` or `201 Created` response code."
+						"description": "This is a DELETE request, and it is used to delete data that was previously created via a POST request. You typically identify the entity being updated by including an identifier in the URL (eg. `id=1`).\n\nA successful DELETE request typically returns a `200 OK`, `202 Accepted`, or `204 No Content` response code."
 					},
 					"response": []
 				}

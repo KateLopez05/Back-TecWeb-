@@ -19,13 +19,11 @@ const tipoProyecto = require('./routes/tipoProRoute')
 const clientes = require('./routes/clienteRoute')
 const universidad = require('./routes/univerRoute')
 const etapa = require('./routes/etapaRoute')
-const proyecto = require('./routes/proyectoRoute')
 
 app.use('/api/v1/tipoProyecto', tipoProyecto)
 app.use('/api/v1/cliente', clientes)
 app.use('/api/v1/universidad', universidad)
 app.use('/api/v1/etapa', etapa)
-app.use('/api/v1/proyecto', proyecto)
 
 app.get("*", (req, res) => {
     return res.status(404).json({
